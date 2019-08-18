@@ -1,0 +1,41 @@
+                            #img {
+                                margin: 1px auto;
+                                width: 700px;
+                                display: block;
+                            }
+                            
+                            body {
+                                background-color: gainsboro;
+                            }
+                            
+                            ul {
+                                max-width: 500px;
+                                margin: 0 auto 50px auto;
+                                text-align: left;
+                                line-height: 1.6;
+                            }
+                            
+                            h1 {
+                                font-family: 'Courier New', Courier, monospace;
+                                text-align: center;
+                            }
+                            
+                            h2 {
+                                text-align: center;
+                            }
+                            /* div {
+                                max-width: 960px;
+                            } */
+                            
+                            .img-superhero {
+                                display: inline-block;
+                                max-width: 95%;
+                                height: 200px;
+                                width: 330px;
+                                margin: 0.1 px;
+                                border-radius: 8px;
+                            }
+                            
+                            p {
+                                text-align: center;
+                            }
